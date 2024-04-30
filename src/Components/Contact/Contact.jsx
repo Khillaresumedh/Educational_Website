@@ -41,9 +41,9 @@ const Contact = () => {
        <h3>Send us a message <img src={msg_icon} alt="" /> </h3>
        <p>Feel free to reach out through contact from or find out our contact information below. Your feedback, quetions, and suggestions are important to us as we strive to proviode expectational service to our university communinity.</p>
        <ul>
-        <li><img src={mail_icon} alt="" /> Contact@GreatStack.dev</li>
-        <li><img src={phone_icon} alt="" /> +19-748-4704-94</li>
-        <li><img src={location_icon} alt="" /> 77 Massachusetts ave, Cambridge <br /> MA 02139, United States</li>
+        <li><img src={mail_icon} alt="" />sumedhkhillare05@gmail.com</li>
+        <li><img src={phone_icon} alt="" /> +91-7030450922</li>
+        <li><img src={location_icon} alt="" /> Hinjewadi phase 1 <br /> Pune, Maharashtra, India</li>
        </ul>
        </div>
        <div className="contact-col">
